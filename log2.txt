@@ -1,0 +1,73 @@
+    1  sudo 
+    2  su
+    3  vida
+    4  su
+    5  apt-get python
+    6  sudo apt-get python
+    7  help
+    8  sudo apt-get install python3.4
+    9  python
+   10  clear
+   11  jasjd'
+   12  asd
+   13  asd
+   14  sad
+   15  asd
+   16  a
+   17  >>text danuel
+   18  clear
+   19  free
+   20  exit
+   21  shupdown
+   22  shutdown
+   23  shutdown -c
+   24  shutdown
+   25  exit
+   26  cd /etc/apt/
+   27  ls
+   28  vi sources.list
+   29  vi sources.list
+   30  sudo apt-get github
+   31  sudo apt-get install github
+   32  git ?
+   33  git 
+   34  sudo apt-get install git
+   35  sudo apt-get install fceux
+   36  sudo apt-get install git
+   37  python -v
+   38  ls
+   39  cd Public/
+   40  cd
+   41  cd Documents/
+   42  ls
+   43  mkdir actividad_4
+   44  cd actividad_4/
+   45  virtualenv -p `which python2` actividad_4env
+   46  pip install virtualenv
+   47  sudo apt-get install pip
+   48  sudo apt-get install python-pip
+   49  apt-cache search terminator
+   50  sudo apt-get install terminator
+   51  history
+   52  history > log.txt
+   53  cd
+   54  ls
+   55  cd Documents/actividad_4/
+   56  virtualenv -p `which python2` actividad_4env
+   57  sudo pip install virtualenv
+   58  source lab_1env/bin/activate_4
+   59  source Documents/activate_4
+   60  las
+   61  ls
+   62  virtualenv -p `which python2` actividad_4env
+   63  source actividad_4env/bin/activate
+   64  pip install gym
+   65  pip install numpy
+   66  pip install panda
+   67  pip install gym-pull
+   68  pip install matplotlib
+   69  python mario.py 
+   70  ls
+   71  vi mario.py 
+   72  vi mario.py
+   73  history > log2.txt

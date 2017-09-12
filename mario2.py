@@ -17,12 +17,12 @@ with open('mario_v2.csv', 'wb') as csvfile:
             #action = env.action_space.sample()
 	    
 	    
-	    compa = csvfile.readline()[-1]
+	   # compa = spamwriter.readline()[-1]
 	    
-	    if(len(compa)==0):
-		action = numpy.random.randint(2, size=6)
-	    else:
-		action = compa
+	    i#f(len(compa)==0):
+	    action = numpy.random.randint(2, size=6)
+	  #  else:
+		#action = compa
                
             print action
             old_observation = observation

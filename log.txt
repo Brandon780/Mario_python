@@ -1,0 +1,48 @@
+    1  sudo 
+    2  su
+    3  vida
+    4  su
+    5  apt-get python
+    6  sudo apt-get python
+    7  help
+    8  sudo apt-get install python3.4
+    9  python
+   10  clear
+   11  jasjd'
+   12  asd
+   13  asd
+   14  sad
+   15  asd
+   16  a
+   17  >>text danuel
+   18  clear
+   19  free
+   20  exit
+   21  shupdown
+   22  shutdown
+   23  shutdown -c
+   24  shutdown
+   25  exit
+   26  sudo apt-get github
+   27  sudo apt-get install github
+   28  git ?
+   29  git 
+   30  sudo apt-get install git
+   31  sudo apt-get install fceux
+   32  sudo apt-get install git
+   33  python -v
+   34  ls
+   35  cd Public/
+   36  cd
+   37  cd Documents/
+   38  ls
+   39  mkdir actividad_4
+   40  cd actividad_4/
+   41  virtualenv -p `which python2` actividad_4env
+   42  pip install virtualenv
+   43  sudo apt-get install pip
+   44  sudo apt-get install python-pip
+   45  apt-cache search terminator
+   46  sudo apt-get install terminator
+   47  history
+   48  history > log.txt
